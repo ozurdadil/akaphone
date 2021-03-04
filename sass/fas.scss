@@ -11,7 +11,7 @@ body{
     width: 1200px;
     margin: 0 auto;
 } 
-@media only screen and(max-width:480px){
+@media screen and(max-width:480px){
     .container{
         width: 450px;
     }
